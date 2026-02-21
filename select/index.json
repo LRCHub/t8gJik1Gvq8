@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "青春の瞬き (Bon Voyageより)",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:54:36.331148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春の瞬き",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_青春の瞬き_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春の瞬き",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_青春の瞬き_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春の瞬き",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/03_青春の瞬き_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春の瞬き - Bon Voyageより",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_青春の瞬き_-_Bon_Voyageより_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春の瞬き",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_青春の瞬き_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春の瞬き",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_青春の瞬き_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seishun no Matataki [青春の瞬き]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_Seishun_no_Matataki_[青春の瞬き]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "椎名林檎 - 青春の瞬き",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/08_椎名林檎_-_青春の瞬き_Sheena_Ringo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春の瞬き - Bon Voyageより",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_青春の瞬き_-_Bon_Voyageより_東京事変.txt"
+    }
+  ]
+}
